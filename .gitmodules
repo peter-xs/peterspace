@@ -1,0 +1,4 @@
+[submodule "blog-hugo/public"]
+	path = blog-hugo/public
+	url = git@github.com:peter-xs/peter-xs.github.io.git
+	branch = master
