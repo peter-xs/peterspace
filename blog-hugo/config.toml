@@ -43,8 +43,8 @@ pygmentsuseclasses         = true
     url                    = "about/"  
 
 [params]
-  faviconfile              = "img/zheng.png"               # from static/
-  avatar                   = "img/profile.jpg"             # path to image in static dir e.g img/avatar.png 
+  faviconfile              = "img/avatar-sm.jpg"               # from static/
+  avatar                   = "img/profile.png"             # path to image in static dir e.g img/avatar.png 
   author                   = "Peter"
   description              = ["Enjoy your life.", "Enjoy your trips."]           # appears in the site header when set to a non-empty string
   welcome_head             = "Hello, World!"
