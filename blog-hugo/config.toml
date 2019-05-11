@@ -44,8 +44,8 @@ pygmentsuseclasses         = true
 
 [params]
   faviconfile              = "img/avatar-sm.jpg"               # from static/
-  avatar                   = "img/profile.png"             # path to image in static dir e.g img/avatar.png 
-  author                   = "Peter"
+  avatar                   = "img/avatar.jpg"             # path to image in static dir e.g img/avatar.png 
+  author                   = "PeterX"
   description              = ["Enjoy your life.", "Enjoy your trips."]           # appears in the site header when set to a non-empty string
   welcome_head             = "Hello, World!"
   welcome_word             = "Let's do something meaningful"
@@ -68,7 +68,7 @@ pygmentsuseclasses         = true
 
   # links
   email                    = "you@email.com"
-  github                   = "//github.com/you"
+  github                   = "//github.com/peter-xs"
   linkedin                 = "//linkedin.com/in/you"
   facebook                 = "//facebook.com/you"
   googleplus               = "//google.com/you"
